@@ -1,0 +1,11 @@
+name: MTrade
+main: de.martin_ot.mtrade.Initial
+version: 1.1
+author: Martin_Ot
+commands:
+  handel:
+    usage: Add Abo for toggle the abo-status. Add text for writing.
+    description: Toggle Abo-State or write text.
+  $:
+    usage: Add Abo for toggle the abo-status. Add text for writing.
+    description: Toggle Abo-State or write text.
